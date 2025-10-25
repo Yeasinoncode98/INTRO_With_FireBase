@@ -104,3 +104,31 @@ signInWithEmailAndPassword(auth, email, password)
 Firebase Docs
 
 Firebase YouTube Tutorials  
+
+
+
+🙌 Thank You for Visiting!
+
+Thanks for checking out this Firebase guide! 🎉
+
+Feel free to fork this repo and try Firebase yourself.
+
+Experiment with Firestore, Authentication, and Hosting to see real-time magic!
+
+If you like this guide, star ⭐ the repo to support it.
+
+Questions? Open an issue or connect with me – I’ll be happy to help!
+
+
+
+💬 Connect with Me
+
+Name: Yeasin Arafat
+
+GitHub: Yeasinoncode98
+
+Portfolio: https://redwine1207.my.canva.site/
+
+WhatsApp: +8801627800198
+
+Happy Coding! 💻✨
